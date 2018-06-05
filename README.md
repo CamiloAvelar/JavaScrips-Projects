@@ -1,4 +1,4 @@
 # JavaScrips-Projects
 
 ## About
-Litle Vanilla JavaScrip projects to practice and learn more
+Litle Vanilla JavaScript projects to practice and learn more
