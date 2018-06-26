@@ -8,3 +8,5 @@ Little Vanilla JavaScript projects to practice and learn more.
 * NumberGuesser (Using SkeletonCSS)
 * TaskList (Using Bootstrap 4)
 
+
+#### Thanks to Brad Traversy 
